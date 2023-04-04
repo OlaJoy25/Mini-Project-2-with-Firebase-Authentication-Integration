@@ -1,16 +1,6 @@
-# sample1
+This project was built with a variety of widgets and arguments.
+Also, smooth Navigation was created between buttons to get to the next page.
+Image network was used to insert images into the application.
+Image were arranged using sizedbox,Padding and kept in containers.
+Buttons of different kinds were used alongside icons of different types for the app.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
